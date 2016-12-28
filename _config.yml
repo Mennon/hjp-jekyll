@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Stockholm
-  - line: Dalarna
+  - line: Stockholm & Dalarna
+  - line: Med omnejd
 
 # Credits content
 credits: 'HJP Bygg och snickeri'
